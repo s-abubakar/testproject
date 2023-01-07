@@ -78,7 +78,7 @@ body{
 }
 .banner{
   height: 100vh;
-  background: url("../image/Im2.jpg") no-repeat;
+  background: url("Im2.jpg") no-repeat;
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
